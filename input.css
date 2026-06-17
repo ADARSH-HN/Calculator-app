@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@utility btn{
+    @apply
+    w-18 h-18 rounded-full bg-gray-600 font-semibold text-xl text-white;
+}
